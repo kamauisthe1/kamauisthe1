@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👯 I’m collaborating on **Achantra RP (FiveM)**
+- 👯 I’m collaborating on **North Side RP (FiveM)**
 
 - 🤝 I’m looking to improve my **Front-end skills**
 
