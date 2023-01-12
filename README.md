@@ -1,22 +1,18 @@
-<h1 align="center">Hi 👋, I'm Helder Gonçalo</h1>
-<h3 align="center">16 year old Developer from Portugal.</h3>
+<h1 align="center">Hi 👋, I'm Helder </h1>
+<h3 align="center">17 year old Developer from Portugal.</h3>
 
-- 🔭 I’m currently working on **an Admin Panel Control System**
+- 🔭 I’m currently working on **Lua projects**
 
-- 🌱 I’m currently learning **PHP**
-
-- 👯 I’m collaborating on **North Side RP (FiveM)**
+- 👯 Worked on ESX FiveM Projects , such as **Achantra RP and North Side RP**
 
 - 🤝 I’m looking to improve my **Front-end skills**
 
-- 📫 How to reach me **hgoncalo17@gmail.com**
+- 📫 Get in touch with me : **hgoncalo17@gmail.com**
 
-- ⚡ Fun fact **I love American sports!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kamauisthe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamauisthe1" height="30" width="40" /></a>
-<a href="https://instagram.com/hgoncalo17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hgoncalo17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
